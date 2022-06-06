@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ibb.co/6P3BsqY"><img src="https://wallpapercave.com/w/uwp2159409.jpeg" border="0"></a>
+<a href="https://github.com/iamherok/Cara_public"><img src="https://i.ibb.co/tmdNhZ1/IMG-20220403-WA0172.jpg" alt="chitoge" border="0"></a>
 
 # **Zero Two BOT**
 

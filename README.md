@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ibb.co/6P3BsqY"><img src="https://wallpapercave.com/w/uwp2159409.jpeg" border="0"></a>
+<img src="https://wallpapercave.com/w/uwp2159409.jpeg" border="0"></a>
 
 # **Zero Two BOT**
 

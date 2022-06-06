@@ -46,7 +46,7 @@ Deply Zero Two form Heroku
 
 -   Totally free to use
 
-- 
+
 
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
 

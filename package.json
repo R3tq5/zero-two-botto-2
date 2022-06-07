@@ -1,6 +1,6 @@
 {
 
-    "name": "zero-two",
+    "name": "zero-two-botto",
 
     "version": "3.0.0",
 
@@ -26,7 +26,7 @@
 
         "type": "git",
 
-        "url": "git+https://github.com/well300/zero-two.git"
+        "url": "git+https://github.com/carl9P/zero-two.git"
 
     },
 

@@ -30,7 +30,7 @@ export default class Command extends BaseCommand {
 				mimetype: Mimetype.gif,
 				caption: `🏮 ᴍᴏᴅᴇʀᴀᴛᴏʀꜱ\n
 ╰• ʟᴏʀᴅ ʀᴀᴋᴇꜱʜ
-🎗ᴄᴏɴᴛᴀᴄᴛ: wa.me/918473956301?text=𝙝𝙚𝙡𝙡𝙤+ʀᴀᴋᴇꜱʜ
+🎗𝔠𝔬𝔫𝔱𝔞𝔠𝔱: wa.me/918584966545?text=𝙝𝙚𝙡𝙡𝙤+ᴄᴀʀʟ
 ──────────────────
 🅂🅄🄿🄿🄾🅁🅃 🄶🅁🄾🅄🄿                                        
 🎗 ᴛʏᴘᴇ !sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ ɪɴ ʏᴏᴜʀ ᴅᴍ!!!

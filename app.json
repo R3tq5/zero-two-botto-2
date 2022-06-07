@@ -30,7 +30,7 @@
 
   "logo": "https://i.ibb.co/Sdt43PT/uwp2159409.jpg",
 
-  "success_url": "/",
+  "success_url": "?",
 
   "env": {
 

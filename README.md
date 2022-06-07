@@ -10,9 +10,11 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploytemplate=https://github.com/carl9P/zero-two-botto)
 
-</div>
+
+<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/carl9P/zero-two-botto)
+
+<br/><br/>
 
 
 

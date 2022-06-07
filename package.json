@@ -6,13 +6,13 @@
 
     "description": "A WhatsApp Bot With Rich Anime Features.",
 
-    "main": "dist/zero-two.js",
+    "main": "dist/zero-two-botto.js",
 
     "scripts": {
 
         "build": "tsc -p .",
 
-        "start": "node dist/zero-two.js",
+        "start": "node dist/zero-two-botto.js",
 
         "lint": "eslint \"src/**/*.ts\"",
 
@@ -26,7 +26,7 @@
 
         "type": "git",
 
-        "url": "git+https://github.com/carl9P/zero-two.git"
+        "url": "git+https://github.com/carl9P/zero-two-botto.git"
 
     },
 
@@ -42,7 +42,7 @@
 
     ],
 
-    "author": "Synthesized Infinity & well300",
+    "author": "Synthesized Infinity , carl9P & well300",
 
     "license": "AGPL-3.0",
 
@@ -52,7 +52,7 @@
 
     },
 
-    "homepage": "https://github.com/well300/zero-two#readme",
+    "homepage": "https://github.com/carl9P/zero-two-botto#readme",
 
     "devDependencies": {
 
